@@ -1,8 +1,8 @@
 <p align="center">
-  <b fontsize="50">### Hi, I'm Deepti 👋</b>
-  </p>
- <p align="center">
-  _________________________________________________________________________________________________________________________________________
+  <h2 align="center"> Hi, I'm Deepti 👋</h2>
+</p>
+ <div align="center">
+ <p>_________________________________________________________________________________________________________________________________________
     </p>  
     
  <p align="center">
@@ -16,6 +16,9 @@
                                                                                     
 
 My Tech Stack includes - 
+```shell
+   Java, ReactJS, Javascript, NodeJS, ExpressJS, Adobe Photoshop, Python
+```
 
                      
 
