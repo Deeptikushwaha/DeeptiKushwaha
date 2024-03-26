@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Deepti 👋
+
+I'm an undergraduate student who is learning and building things. Basically,
+                       ⚡I code
+                       ⚡I read
+
+My Tech Stack includes - 
+
+                     
 
 <!--
 **Deeptikushwaha/DeeptiKushwaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
