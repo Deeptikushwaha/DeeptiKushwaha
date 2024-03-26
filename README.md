@@ -1,4 +1,4 @@
- ### Hi, I'm Deepti 👋
+   ### Hi, I'm Deepti 👋
 _____________________________________________________________________________________________________
 
  I'm an undergraduate student who is learning and building things. Basically,
