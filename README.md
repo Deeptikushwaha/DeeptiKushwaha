@@ -2,23 +2,16 @@
   <h2 align="center"> Hi, I'm Deepti 👋</h2>
 </p>
  <div align="center">
- <p>_________________________________________________________________________________________________________________________________________
-    </p>  
-    
- <p align="center">
- I'm an undergraduate student who is learning and building things. Basically,
+   
+ 🔭I'm an undergraduate student who is learning and building things. Basically,
   <p align="center">⚡I code</p>
    <p align="center">⚡I read</p>
-  
-  </p>  
-   
-
-                                                                                    
 
 My Tech Stack includes - 
 ```shell
    Java, ReactJS, Javascript, NodeJS, ExpressJS, Adobe Photoshop, Python
 ```
+</div>
 
                      
 
