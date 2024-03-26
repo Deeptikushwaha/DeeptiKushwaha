@@ -8,8 +8,8 @@
     
  <p align="center">
  I'm an undergraduate student who is learning and building things. Basically,
-  <p>⚡I code</p>
-   <p>⚡I read</p>
+  <p align="center">⚡I code</p>
+   <p align="center">⚡I read</p>
   
   </p>  
    
