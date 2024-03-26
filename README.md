@@ -1,11 +1,12 @@
 <p align="center">
   ### Hi, I'm Deepti 👋
-</p>   
-_____________________________________________________________________________________________________
+  _____________________________________________________________________________________________________
 
    I'm an undergraduate student who is learning and building things. Basically,
   ⚡I code
   ⚡I read
+</p>   
+
                                                                                     
 
 My Tech Stack includes - 
