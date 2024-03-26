@@ -4,7 +4,6 @@
  
  <p align="center">
   __________________________________________________________________________________________________________________________
-
  I'm an undergraduate student who is learning and building things. Basically,
   ⚡I code
   ⚡I read
