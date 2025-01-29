@@ -7,7 +7,7 @@
   <p align="center">⚡I code</p>
    <p align="center">⚡I read</p>
 
-My Tech Stack includes - 
+<h3 align="center"> &nbsp; My Tech Stack - </h2> 
 ```shell
    Java, ReactJS, Javascript, NodeJS, ExpressJS, Adobe Photoshop, Python
 ```
