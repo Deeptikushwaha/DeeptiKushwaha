@@ -22,7 +22,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="sql" width="25" height="25"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="25" height="25"/>
 </p>
-</div>
+
 
 
 - 🔭 I’m currently working on my MERN and T3 stack.
@@ -36,7 +36,7 @@
     
 - Pronouns: she/her
 
-
+</div>
                   
 
 <!--
