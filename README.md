@@ -9,9 +9,6 @@
 
 
 <h3 align="center"> &nbsp; My Tech Stack - </h2> 
-```shell
-   Java, ReactJS, Javascript, NodeJS, ExpressJS, Adobe Photoshop, Python
-```
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="25" height="25"/>
