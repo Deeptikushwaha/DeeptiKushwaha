@@ -8,7 +8,6 @@
    <p align="center">⚡I read</p>
 
 
-
 <h3 align="center"> &nbsp; My Tech Stack - </h2> 
 ```shell
    Java, ReactJS, Javascript, NodeJS, ExpressJS, Adobe Photoshop, Python
