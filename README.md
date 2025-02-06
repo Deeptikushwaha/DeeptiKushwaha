@@ -7,6 +7,19 @@
   <p align="center">⚡I code</p>
    <p align="center">⚡I read</p>
 
+- 🔭 I’m currently working on my MERN and T3 stack.
+- 🌱 I’m currently learning AWS and GCP.
+- 👯 I’m looking for full time opportunities.
+- 💬 Ask me about technologies, projects, carrer and books.
+- 📫 How to reach me:
+    📧 : deeptikushwaha140@gmail.com
+    🎀 : https://www.instagram.com/_deeptikushwah/
+👩‍💼 : https://www.linkedin.com/in/deepti-kushwaha-a59490200
+    
+- Pronouns: she/her
+
+
+
 <h3 align="center"> &nbsp; My Tech Stack - </h2> 
 ```shell
    Java, ReactJS, Javascript, NodeJS, ExpressJS, Adobe Photoshop, Python
@@ -23,7 +36,8 @@
 </p>
 </div>
 
-                     
+
+                  
 
 <!--
 **Deeptikushwaha/DeeptiKushwaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,3 +53,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
