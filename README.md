@@ -27,9 +27,9 @@
 - 👯 I’m looking for full time opportunities.
 - 💬 Ask me about technologies, projects, carrer and books.
 - 📫 How to reach me:
-     📧 : deeptikushwaha140@gmail.com
-     🎀 : https://www.instagram.com/_deeptikushwah/
-     👩‍💼 : https://www.linkedin.com/in/deepti-kushwaha-a59490200
+     - 📧 : deeptikushwaha140@gmail.com
+     - 🎀 : https://www.instagram.com/_deeptikushwah/
+     - 👩‍💼 : https://www.linkedin.com/in/deepti-kushwaha-a59490200
     
 - Pronouns: she/her
 
