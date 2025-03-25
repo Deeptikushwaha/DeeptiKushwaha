@@ -7,7 +7,7 @@
   <p align="center">⚡I code</p>
    <p align="center">⚡I read</p>
 
-
+<!--
 <h3 align="center"> &nbsp; My Tech Stack - </h2> 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/>
@@ -19,7 +19,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="sql" width="25" height="25"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="25" height="25"/>
 </p>
-
+-->
 
 
 - 🔭 I’m currently working on my MERN and T3 stack.
