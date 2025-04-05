@@ -1,6 +1,6 @@
 <p align="center">
   <h2 align="center"> Hey, I'm Deepti 👋</h2>
-</p>
+</p> 
  <div align="center">
    
  🔭I'm an undergraduate student who is learning and building things. Basically,
